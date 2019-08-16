@@ -1,3 +1,3 @@
 # Introduce
 ## Overview
-We will learn about how to use git and github.
+We will learn about how to use git and gitlab.
