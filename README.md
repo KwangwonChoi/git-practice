@@ -1,3 +1,5 @@
 # Introduce
 ## Overview
-We will learn about how to use git and gitlab.
+Introduce !
+We will learn about how to use got and gitlab.
+
